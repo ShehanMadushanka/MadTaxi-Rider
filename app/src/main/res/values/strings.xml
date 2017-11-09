@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MadTaxi-Rider</string>
+    <string name="app_title">M A D - T A X I</string>
+    <string name="rider_title">© Madapps.com @ 2017</string>
+    <string name="btn_sign_in">SIGN IN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="et_hint_mobile_number">Mobile Number</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBYp1BHEoiziciK5vqJEmaoONrpajYxulA</string>
+    <string name="et_hint_name">Name</string>
+    <string name="et_hint_password">Password</string>
+    <string name="et_hint_email">Email</string>
+    <string name="title_activity_home">Map</string>
+    <string name="title_activity_welcome">Welcome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="destination_image">destination image</string>
+</resources>
